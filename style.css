@@ -33,4 +33,29 @@ body {
   height: 40px;
 }
 
+.text-box {
+  /* to center the title */
+  position: absolute;
+  top: 35%;
+  left: 27%;
+}
+
+.heading-primary {
+  text-transform: uppercase;
+  color: #000;
+}
+
+.heading-primary-main {
+   display: block ;
+   font-size: 60px;
+   font-weight: 100;
+    letter-spacing: 35px;  
+}
+
+.heading-primary-sub {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 17.4px;
+}
 
